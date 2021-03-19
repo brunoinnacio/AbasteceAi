@@ -1,0 +1,11 @@
+{"meta":{"protocolVersion":"13.1.0","implementation":{"name":"cucumber-ruby","version":"5.3.0"},"runtime":{"name":"ruby","version":"2.7.2"},"os":{"name":"mingw32","version":"10.0.19041"},"cpu":{"name":"x64"}}}
+{"hook":{"id":"273144ac-0e8b-4768-8707-82c5a96326e1","sourceReference":{"uri":"capybara-3.33.0/lib/capybara/cucumber.rb","location":{"line":10}}}}
+{"hook":{"id":"e9993605-82c5-4a28-bd95-8bf18c9ed1d7","sourceReference":{"uri":"capybara-3.33.0/lib/capybara/cucumber.rb","location":{"line":14}}}}
+{"hook":{"id":"9eea02b1-242c-46d1-a767-85eaed8b29be","tagExpression":"@javascript","sourceReference":{"uri":"capybara-3.33.0/lib/capybara/cucumber.rb","location":{"line":18}}}}
+{"hook":{"id":"edc9afbd-775e-42fb-a2a7-bb3c2f23ea98","sourceReference":{"uri":"capybara-3.33.0/lib/capybara/cucumber.rb","location":{"line":22}}}}
+{"hook":{"id":"5ac0cb5b-89ef-49ff-a62b-3a10cdad747a","sourceReference":{"uri":"features/support/hooks.rb","location":{"line":1}}}}
+{"stepDefinition":{"id":"4007b1eb-3c1b-4bdd-967a-055ab2129c17","pattern":{"source":"que estou na Paginal Inicial","type":"CUCUMBER_EXPRESSION"},"sourceReference":{"uri":"features/step_definitions/home.rb","location":{"line":1}}}}
+{"stepDefinition":{"id":"79621052-003a-441a-8d74-84fc6c94164c","pattern":{"source":"Clico em unidade","type":"CUCUMBER_EXPRESSION"},"sourceReference":{"uri":"features/step_definitions/home.rb","location":{"line":6}}}}
+{"stepDefinition":{"id":"26aa6921-6a63-4716-a840-dffb3694bee1","pattern":{"source":"Seleciono as Facilidades","type":"CUCUMBER_EXPRESSION"},"sourceReference":{"uri":"features/step_definitions/home.rb","location":{"line":8}}}}
+{"stepDefinition":{"id":"505ed96b-8152-49e9-a0f0-29e3023e52d1","pattern":{"source":"clico em Ver detalhar","type":"CUCUMBER_EXPRESSION"},"sourceReference":{"uri":"features/step_definitions/home.rb","location":{"line":14}}}}
+{"stepDefinition":{"id":"beed7ba4-de6f-4cd6-bc57-341f678c3ac1","pattern":{"source":"Deverá aparecer República do Líbano I","type":"CUCUMBER_EXPRESSION"},"sourceReference":{"uri":"features/step_definitions/home.rb","location":{"line":16}}}}
